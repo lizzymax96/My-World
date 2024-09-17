@@ -8,7 +8,7 @@ This is a simple and girly portfolio website built using **Bootstrap 5**. It hig
 - Cute, pastel color scheme
 - Fully customizable HTML/CSS
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/lizzymax96/My-World/blob/main/screenshots/screenshot.png?raw=true)
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/lizzymax96/My-World/blob/main/screenshots/Screensho2.png?raw=true)
