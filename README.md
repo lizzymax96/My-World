@@ -1,2 +1,14 @@
-# My-World
-This is a personal portfolio website built using Bootstrap 5 with a cute, girly design aesthetic. The site showcases web development skills, along with a love for coffee, reading, and creating beautiful, user-friendly websites. Perfect for a fun and creative introduction, with sections about the developer, and a simple contact form to connect.
+# Personal Portfolio Website 💖
+
+This is a simple and girly portfolio website built using **Bootstrap 5**. It highlights a passion for web development, coffee, and romance novels in a pastel, aesthetically pleasing design.
+
+## Features
+- Responsive design with **Bootstrap 5**
+- Sections for About Me, Contact, and a Welcome message
+- Cute, pastel color scheme
+- Fully customizable HTML/CSS
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
